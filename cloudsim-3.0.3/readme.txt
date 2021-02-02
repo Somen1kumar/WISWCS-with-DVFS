@@ -78,5 +78,5 @@ Note:
 
   * You need to set up PATH for ant in Windows and/or Unix.
   
-  
+  To run the Program open :cloudsim-3.0.3\examples\org\cloudbus\cloudsim\examples\wics.java in eclipse
 
